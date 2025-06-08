@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #087401;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: start;
+
+}
+h1{
+    color:#f4ff15;
+    margin-left: 60px;
+
+}
+input{
+    background-color: #9cf500;
+    border-radius: 20px;
+}
+.login-container{
+    background-color: #07ab2a;
+    padding: 40px;
+    border-radius: 50px;
+}
+button{
+    background-color: #f4ff15;
+    padding: 6px;
+    margin-left: 80px;
+}
+.form-group{
+    padding: 10px;
+
+}
+.kk{
+    margin-left: 8px;
+}
+
+

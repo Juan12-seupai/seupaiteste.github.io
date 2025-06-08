@@ -1,0 +1,45 @@
+
+    
+    
+
+
+body{
+    background-color: #0a9900;
+}
+div{
+    
+    border: #ffffff;
+}
+    
+
+h1{
+    color: black;
+    text-align: center;
+    box-sizing: border-box;
+    border-color: #ffffff;
+   
+}
+caixa{
+    border-color: #ffffff;
+}
+header {
+  background-color: #087401; 
+  padding: 20px 0;
+ 
+  
+  
+  
+}
+
+
+header h1 {
+  top: -10px;
+  background-color: #087401;
+  color: rgb(255, 255, 255);
+  border: 5px solid white;
+  padding: 30px;
+  justify-content: center;
+  margin: 10px 250px;
+
+}
+  

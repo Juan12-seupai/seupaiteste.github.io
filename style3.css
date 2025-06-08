@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #07ab2a;
+  }
+
+  header {
+    background-color: #087401;
+    padding: 32px 0;
+    
+  }
+  main{
+    width: 800px; margin: 0 auto;
+    border: white;
+  }
+  h1{
+    text-align: center;
+    border: white;
+  }
+
+  nav ul {
+    display: flex;              /* Torna os <li> horizontais */
+    list-style: none;           /* Remove os marcadores */
+    margin: 0;
+    padding: 0;
+    justify-content: center;    /* Centraliza os itens no nav */
+  }
+
+  nav ul li {
+    margin: 0 15px;
+  }
+
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    display: block;
+    border-color: white;
+  }
+
+  nav ul li a:hover {
+    background-color: #07ab2a;
+    border-radius: 2px;
+    
+  }
+  header h1{
+    top: -10px;
+  background-color: #087401;
+  color: rgb(255, 255, 255);
+  border: 5px solid white;
+  padding: 30px;
+  justify-content: center;
+  margin: 10px 250px;
+  }
+  
