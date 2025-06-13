@@ -1,0 +1,17 @@
+body{
+    background-color: #087401;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: start;
+}
+h1{
+   color: #f4ff15; 
+   margin-left: 60px;
+
+}
+input{
+    background-color: #f4ff15;
+    border-radius: 15px;
+
+}
