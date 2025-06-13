@@ -13,5 +13,22 @@ h1{
 input{
     background-color: #f4ff15;
     border-radius: 15px;
+    margin-top: 20px;
 
+}
+.kjkj{
+    margin-left: 80px;
+    padding-left: 10px;
+    
+
+
+}
+button{
+    margin-left: 100px;
+    background-color: #f4ff15;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 10px
+    
+    
 }
