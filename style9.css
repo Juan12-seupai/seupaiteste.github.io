@@ -17,5 +17,7 @@ header h1 {
     border: 5px solid white;
     padding: 30px;
     justify-content: center;
-    margin: auto 45px;
+    margin: 0 45px 4px 45px;
+
   }
+  
