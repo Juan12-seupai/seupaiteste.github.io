@@ -14,11 +14,14 @@ body{
 h1{
     color:#f4ff15;
     margin-left: 60px;
-    margin-top: 30px
+    margin-top: 30px;
+    text-align: center;
+    margin: 0 auto; 
+    
 
 }
 input{
-    background-color: #9cf500;
+    background-color: #f4ff15;
     border-radius: 20px;
 }
 
@@ -26,9 +29,9 @@ input{
 button{
     background-color: #f4ff15;
     padding: 10px;
-    margin-left: 90px;
     border-radius: 15px;
     margin-top: 20px;
+    margin:10px;
     
 
 }
@@ -36,8 +39,18 @@ button{
     padding: 10px;
 
 }
-.kk{
-    margin-left: 8px;
+
+
+.login-container{
+    border: 3px solid #000;
+    border-radius: 15px;
+    background-color: #047d04;
+    padding: 30px;
+    margin-top: 160px;
+    box-shadow: 2px 2px 50px;
+
+
 }
+
 
 
